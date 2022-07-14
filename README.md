@@ -7,7 +7,7 @@ features of the app
 user selects types(bar, line or Doughnut type chart)
 labels for x axis and y axis
 n number of datapoints values(as required by user)
-
+deployed: https://blast0.github.io/React-Graph-Creation-UI/
 
 # Getting Started with Create React App
 
