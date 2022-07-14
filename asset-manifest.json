@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Graph-Creation-UI/static/css/main.e694aab0.css",
+    "main.js": "/React-Graph-Creation-UI/static/js/main.a016f914.js",
+    "static/js/787.ff37cb92.chunk.js": "/React-Graph-Creation-UI/static/js/787.ff37cb92.chunk.js",
+    "index.html": "/React-Graph-Creation-UI/index.html",
+    "main.e694aab0.css.map": "/React-Graph-Creation-UI/static/css/main.e694aab0.css.map",
+    "main.a016f914.js.map": "/React-Graph-Creation-UI/static/js/main.a016f914.js.map",
+    "787.ff37cb92.chunk.js.map": "/React-Graph-Creation-UI/static/js/787.ff37cb92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e694aab0.css",
+    "static/js/main.a016f914.js"
+  ]
+}
